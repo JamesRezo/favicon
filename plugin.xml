@@ -12,7 +12,7 @@
 	Génération automatique, à partir de votre logo de site SPIP, de favicon et touch icon pour les différents navigateurs et terminaux.
 	</description>
 	<auteur>[tetue->http://spip.tetue.net]</auteur>
-	<lien>https://contrib.spip.net/4740</lien>
+	<lien>https://contrib.spip.net/favicon</lien>
 
 	<pipeline>
 		<nom>insert_head</nom>
